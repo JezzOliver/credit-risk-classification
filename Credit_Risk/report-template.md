@@ -1,4 +1,4 @@
-# credit-risk-classification
+# Module 12 Report Template
 
 ## Overview of the Analysis
 
@@ -19,6 +19,3 @@
 
 Both models did at least a good job predicting outcomes however it must be said the the abilty to correctly predict a load being healthy was clearly superior and exceptionally accurate based on the classifcation report data. 
 Based on this I would certainly recomend model 1 as it is very accurate at determining if a loan was likely to be healthy or not, especially if this was the problem trying to be solved
-
-
-Note I did have a brief session with one of the tutors to confirm notebook coding was correct
